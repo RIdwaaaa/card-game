@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+    background-image: url(erik-mclean-p1Xx215ooiM-unsplash\ \(1\).jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.game {
+    width: 400px;
+    height: 500px;
+    background: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.top-numbers {
+    display: flex;
+}
+
+.top-numbers h1 {
+    margin: 10px;
+}
